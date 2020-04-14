@@ -4,14 +4,12 @@
 
 #class initiation
 class factorialClass:
-	#variables
-	vNum=0
-	vResult=0
+	
 
 	def __init__(self):
-		#clear vars for next obj--just in case
-		vNum=0
-		vResult=0
+		#constructor
+		self.vNum=0
+		self.vResult=0
 
 	#calculate factorial function in recursive fashion
 	# x var is temp var sent to the obj	
