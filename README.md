@@ -1,5 +1,6 @@
 # learningPython
 Creator: fireKuntur
+
 Goal: sample python3 scripts for others to understand the use of basic python concepts.
 
 -----------------------------------------------------------------
